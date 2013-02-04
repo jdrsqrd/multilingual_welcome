@@ -1,7 +1,8 @@
 #include <stdio.h>
-void main(void)
+int main(void)
 {
-	printf("Hello\n");
+	printf("Welcome\n");
 	printf("Hallo\n");//Dutch
-	printf("Merhaba");//turkish
+	printf("Merhaba\n");//turkish
+	return 0;
 }
